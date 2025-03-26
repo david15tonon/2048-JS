@@ -1,10 +1,8 @@
-Here's a well-structured README description for your **2048-JS** project:  
 
----
 
 # **2048-JS**  
 2048 is a classic puzzle game where players slide numbered tiles on a 4x4 grid to combine them and reach the **2048** tile.  
-
+<img src="2048.png">
 ## **Features**  
 - 🎮 **Playable with arrow keys** (Move tiles left, right, up, or down)  
 - 🔢 **Tile merging mechanics** (Combine matching numbers)  
